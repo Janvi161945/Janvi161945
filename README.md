@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/pagariyajanvi" target="blank"><img src="https://img.shields.io/twitter/follow/pagariyajanvi?logo=twitter&style=for-the-badge" alt="pagariyajanvi" /></a> </p>
 
-- 🌱 I’m currently learning **ML, Deep Learning , Web3**
+- 🌱 I’m currently learning **ML, Deep Learning , Web3, SQL**
 
 - 💬 Ask me about **Deep Learning,Machine Learning**
 
